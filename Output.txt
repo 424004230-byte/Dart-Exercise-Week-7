@@ -1,0 +1,12 @@
+Customer: Cleds
+Item: Wireless Mouse x4 at 45.5 each
+Subtotal: 182
+Member discount: 20
+Total: 162
+Is the total over 100? true
+Is this a bulk order (3 or more)? true
+Is the total within my 500 budget? true
+Did I buy exactly 4 items? true
+Most items my budget can buy: 10
+Money left after buying 10: 45
+Loyalty points earned: 4
